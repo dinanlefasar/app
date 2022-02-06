@@ -220,5 +220,21 @@
         "vip": true
       }
     ]
+  },
+  {
+    "region": "United Arab Emirates",
+    "flag": "https://vpnmaster.me/flags/us.png",
+    "countryList": [
+      {
+        "name": "Seattle-a24",
+        "ip": "sea-a24.ipvanish.com",
+        "vip": false
+      },
+      {
+        "name": "Seattle-a24",
+        "ip": "sea-a24.ipvanish.com",
+        "vip": true
+      }
+    ]
   }
 ]
