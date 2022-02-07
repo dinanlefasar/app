@@ -2,7 +2,7 @@
   {
     "region": "United States",
     "flag": "https://vpnmaster.me/flags/us.png",
-    "countryList": [
+    "cityList": [
       {
         "name": "Ashburn-a67",
         "ip": "iad-a67.ipvanish.com",
@@ -63,7 +63,7 @@
   {
     "region": "United States",
     "flag": "https://vpnmaster.me/flags/us.png",
-    "countryList": [
+    "cityList": [
       {
         "name": "Las Vegas-c16",
         "ip": "las-c16.ipvanish.com",
@@ -109,7 +109,7 @@
   {
     "region": "United Arab Emirates",
     "flag": "https://vpnmaster.me/flags/us.png",
-    "countryList": [
+    "cityList": [
       {
         "name": "Seattle-a24",
         "ip": "sea-a24.ipvanish.com",
@@ -125,7 +125,7 @@
   {
     "region": "United Arab Emirates",
     "flag": "https://vpnmaster.me/flags/us.png",
-    "countryList": [
+    "cityList": [
       {
         "name": "Seattle-a24",
         "ip": "sea-a24.ipvanish.com",
