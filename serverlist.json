@@ -7,7 +7,7 @@
         "name": "Ashburn-a67",
         "ip": "iad-a67.ipvanish.com",
         "vip": false
-      },  
+      },
       {
         "name": "Atlanta-b12",
         "ip": "atl-b12.ipvanish.com",
@@ -57,7 +57,13 @@
         "name": "Houston-c01",
         "ip": "hou-c01.ipvanish.com",
         "vip": false
-      },
+      }
+    ]
+  },
+  {
+    "region": "United States",
+    "flag": "https://vpnmaster.me/flags/us.png",
+    "countryList": [
       {
         "name": "Las Vegas-c16",
         "ip": "las-c16.ipvanish.com",
