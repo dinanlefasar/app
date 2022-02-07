@@ -7,20 +7,10 @@
         "name": "Ashburn-a67",
         "ip": "iad-a67.ipvanish.com",
         "vip": false
-      },
-      {
-        "name": "Ashburn-a12",
-        "ip": "iad-a12.ipvanish.com",
-        "vip": false
-      },
+      },  
       {
         "name": "Atlanta-b12",
         "ip": "atl-b12.ipvanish.com",
-        "vip": false
-      },
-      {
-        "name": "Atlanta-a30",
-        "ip": "atl-a03.ipvanish.com",
         "vip": false
       },
       {
@@ -29,18 +19,8 @@
         "vip": false
       },
       {
-        "name": "Boston-c19",
-        "ip": "bos-c19.ipvanish.com",
-        "vip": false
-      },
-      {
         "name": "Charlotte-c22",
         "ip": "clt-c22.ipvanish.com",
-        "vip": false
-      },
-      {
-        "name": "Charlotte-c31",
-        "ip": "clt-c31.ipvanish.com",
         "vip": false
       },
       {
@@ -49,33 +29,13 @@
         "vip": false
       },
       {
-        "name": "Chicago-a33",
-        "ip": "chi-a33.ipvanish.com",
-        "vip": false
-      },
-      {
-        "name": "Chicago-b45",
-        "ip": "chi-b45.ipvanish.com",
-        "vip": false
-      },
-      {
         "name": "Cincinnati-b20",
         "ip": "cvg-b20.ipvanish.com",
         "vip": false
       },
       {
-        "name": "Cincinnati-b05",
-        "ip": "cvg-b05.ipvanish.com",
-        "vip": false
-      },
-      {
         "name": "Dallas-a08",
         "ip": "dal-a08.ipvanish.com",
-        "vip": false
-      },
-      {
-        "name": "Dallas-b05",
-        "ip": "dal-b05.ipvanish.com",
         "vip": false
       },
       {
@@ -89,11 +49,6 @@
         "vip": false
       },
       {
-        "name": "Denver-a30",
-        "ip": "den-a30.ipvanish.com",
-        "vip": false
-      },
-      {
         "name": "Denver-a33",
         "ip": "den-a33.ipvanish.com",
         "vip": false
@@ -104,23 +59,8 @@
         "vip": false
       },
       {
-        "name": "Houston-c20",
-        "ip": "hou-c20.ipvanish.com",
-        "vip": false
-      },
-      {
         "name": "Las Vegas-c16",
         "ip": "las-c16.ipvanish.com",
-        "vip": false
-      },
-      {
-        "name": "Las Vegas-c18",
-        "ip": "las-c18.ipvanish.com",
-        "vip": false
-      },
-      {
-        "name": "Las Vegas-c34",
-        "ip": "las-c34.ipvanish.com",
         "vip": false
       },
       {
@@ -129,28 +69,8 @@
         "vip": false
       },
       {
-        "name": "Los Angelas-b02",
-        "ip": "lax-b02.ipvanish.com",
-        "vip": false
-      },
-      {
-        "name": "Los Angelas-b04",
-        "ip": "lax-b04.ipvanish.com",
-        "vip": false
-      },
-      {
         "name": "Miami-a54",
         "ip": "mia-a54.ipvanish.com",
-        "vip": false
-      },
-      {
-        "name": "Miami-a13",
-        "ip": "mia-a13.ipvanish.com",
-        "vip": false
-      },
-      {
-        "name": "Miami-b01",
-        "ip": "mia-b01.ipvanish.com",
         "vip": false
       },
       {
@@ -164,23 +84,8 @@
         "vip": false
       },
       {
-        "name": "New York-b39",
-        "ip": "nyc-b39.ipvanish.com",
-        "vip": false
-      },
-      {
-        "name": "New York-a62",
-        "ip": "nyc-a62.ipvanish.com",
-        "vip": false
-      },
-      {
         "name": "Phoenix-a16",
         "ip": "phx-a16.ipvanish.com",
-        "vip": false
-      },
-      {
-        "name": "Phoenix-a36",
-        "ip": "phx-a36.ipvanish.com",
         "vip": false
       },
       {
@@ -189,18 +94,8 @@
         "vip": true
       },
       {
-        "name": "San Jose-a19",
-        "ip": "sjc-a19.ipvanish.com",
-        "vip": true
-      },
-      {
         "name": "Seattle-a18",
         "ip": "sea-a18.ipvanish.com",
-        "vip": false
-      },
-      {
-        "name": "Seattle-a24",
-        "ip": "sea-a24.ipvanish.com",
         "vip": false
       }
     ]
