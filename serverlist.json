@@ -6,57 +6,79 @@
       {
         "name": "Ashburn-a67",
         "ip": "iad-a67.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Atlanta-b12",
         "ip": "atl-b12.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Boston-c76",
         "ip": "bos-c76.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Charlotte-c22",
         "ip": "clt-c22.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Chicago-a23",
         "ip": "chi-a23.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Cincinnati-b20",
         "ip": "cvg-b20.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Dallas-a08",
         "ip": "dal-a08.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Dallas-a07",
         "ip": "dal-a07.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Denver-a28",
         "ip": "den-a28.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Denver-a33",
         "ip": "den-a33.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Houston-c01",
         "ip": "hou-c01.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       }
     ]
   },
@@ -67,42 +89,58 @@
       {
         "name": "Las Vegas-c16",
         "ip": "las-c16.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Los Angelas-b01",
         "ip": "lax-b01.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Miami-a54",
         "ip": "mia-a54.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "New Orleans-c08",
         "ip": "msy-c08.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "New York-a56",
         "ip": "nyc-a56.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Phoenix-a16",
         "ip": "phx-a16.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "San Jose-a14",
         "ip": "sjc-a14.ipvanish.com",
-        "vip": true
+        "vip": true,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Seattle-a18",
         "ip": "sea-a18.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       }
     ]
   },
@@ -113,12 +151,16 @@
       {
         "name": "Seattle-a24",
         "ip": "sea-a24.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United Arab Emirate",
+        "flags": "https://vpnmaster.me/flags/us.png"
       },
       {
         "name": "Seattle-a24",
-        "ip": "sea-a24.ipvanish.com",
-        "vip": true
+        "ip": "United Arab Emirate",
+        "vip": true,
+        "country": "United State",
+        "flags": "https://vpnmaster.me/flags/us.png"
       }
     ]
   },
@@ -129,13 +171,17 @@
       {
         "name": "Seattle-a24",
         "ip": "sea-a24.ipvanish.com",
-        "vip": false
+        "vip": false,
+        "country": "United Arab Emirate",
+        "flags": "https://vpnmaster.me/flags/ua.png"
       },
       {
         "name": "Seattle-a24",
         "ip": "sea-a24.ipvanish.com",
-        "vip": true
+        "vip": true,
+        "country": "United Arab Emirate",
+        "flags": "https://vpnmaster.me/flags/us.png"
       }
     ]
   }
-]
+  ]
